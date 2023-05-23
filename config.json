@@ -14,5 +14,5 @@
   "single_chat_prefix": "[\"bot\", \"@bot\",\"小爱,\"小李\",\"老张\"]",
   "single_chat_reply_prefix": "【OpenAI】",
   "speech_recognition": Flase,
-  "voice_reply_voice": "False"
+  "trigger_by_self": False,
 }
