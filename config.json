@@ -4,7 +4,7 @@
   "group_chat_in_one_session": "[\"ChatGPT测试群\"]",
   "group_chat_prefix": "[bot]",
   "group_chat_reply_prefix": "【ChatGPT】",
-  "group_chat_keyword": "[\"bot\",\"小爱,\"小李\",\"老张\"],",
+  "group_chat_keyword": "[\"bot\",\"小爱,\"小李\",\"老张\"]",
   "group_name_white_list": "[\"ChatGPT测试群\", \"AI智能省流量\"]",
   "group_speech_recognition": True,
   "voice_to_text": "[\"openai\"]",
@@ -13,6 +13,6 @@
   "open_ai_api_key": "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",
   "single_chat_prefix": "[\"bot\", \"@bot\",\"小爱,\"小李\",\"老张\"]",
   "single_chat_reply_prefix": "【OpenAI】",
-  "speech_recognition": Flase,
+  "speech_recognition": False,
   "trigger_by_self": False,
 }
